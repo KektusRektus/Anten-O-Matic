@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.exe
+python/
+data/
+outputs/
+designs/
+modules/openEMS/
